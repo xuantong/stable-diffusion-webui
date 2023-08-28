@@ -1,0 +1,1 @@
+/home/ai/anaconda3/envs/sb-ui-3.9/bin/python /home/ai/ai-img/stable-diffusion-webui/launch.py --listen --port 17860 --api --enable-insecure-extension-access > /home/ai/ai-img/stable-diffusion-webui/run.log 2>&1 &
